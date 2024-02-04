@@ -18,7 +18,6 @@
    git clone https://github.com/EmreToklu00/MickeyMath.git
 ```
 
-
 <h2>💻 Project Screenshots:</h2>
 
 <img src="https://github.com/EmreToklu00/MickeyMath/blob/master/Github/welcome.png" alt="project-screenshot">
