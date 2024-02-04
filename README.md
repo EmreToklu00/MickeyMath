@@ -14,7 +14,7 @@
 <h2>🛠️ Clone This Project</h2>
 
 ```bash
-   git clone https://link-to-project
+   git clone https://github.com/EmreToklu00/MickeyMath.git
 ```
 
 
