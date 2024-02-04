@@ -2,7 +2,7 @@
 
 <p id="description">This project was our Computer Graphics Programming hackathon exam where we aimed to enhance the basic arithmetic skills (addition subtraction multiplication division) for children. In this game Mickey is our hero who tries to obtain mathematical operations from the user by collecting fruits in order to improve their abilities in the four operations.</p>
 
-<h2>💻 Features:</h2>
+<h2>Features:</h2>
 
 *   OOP
 *   JFrame
