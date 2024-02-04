@@ -24,5 +24,3 @@
 <img src="https://github.com/EmreToklu00/MickeyMath/blob/master/Github/ingame1.png" alt="project-screenshot">
 <img src="https://github.com/EmreToklu00/MickeyMath/blob/master/Github/ingame2.png" alt="project-screenshot">
 <img src="https://github.com/EmreToklu00/MickeyMath/blob/master/Github/youwin.png" alt="project-screenshot">
-
-<p align="right"><-<a href="#readme-top">back to top</a>-></p>
